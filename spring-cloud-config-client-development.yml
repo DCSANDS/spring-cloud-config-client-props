@@ -16,6 +16,6 @@ spring:
     virtual-host: hbrujcae
 logging:
   level:
-    com.dcsands: DEBUG    
-message: Hello Space Nerds
-feature.isEnabled: true    
+    com.dcsands: Error    
+message: Hello World
+feature.isEnabled: false    
