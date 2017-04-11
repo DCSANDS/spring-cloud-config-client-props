@@ -1,0 +1,21 @@
+security:
+  basic:
+    enabled: false
+management:
+  security:
+    enabled: false
+spring:
+  cloud:
+    bus:
+      enabled: true
+  rabbitmq:
+    host: wombat.rmq.cloudamqp.com
+    port: 5672
+    username: hbrujcae
+    password: C3535ixtNaXAgGzcklDnkv9sIFYYBSp-
+    virtual-host: hbrujcae
+logging:
+  level:
+    com.dcsands: ERROR    
+message: Hello Space Nerds
+feature.isEnabled: true    
