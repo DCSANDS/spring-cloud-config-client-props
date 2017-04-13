@@ -16,6 +16,6 @@ spring:
     virtual-host: hbrujcae
 logging:
   level:
-    com.dcsands: Error    
-message: Hello World
-feature.isEnabled: false    
+    com.dcsands: DEBUG    
+message: Hello ARMS
+feature.isEnabled: true    
